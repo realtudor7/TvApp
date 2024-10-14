@@ -1,0 +1,21 @@
+.clockdesign {
+        padding:20px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border : 2.5px;
+        border-style: solid;
+        color: white;
+        size: 10;
+}
+body{
+    background-color: black;
+}
+#txt {
+    font-size: 48px; 
+    font-weight: bold; 
+    color: white; 
+    text-align: center; 
+    margin-top: 20px; 
+}

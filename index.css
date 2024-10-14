@@ -1,0 +1,17 @@
+.main {
+    padding:20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border : 2.5px;
+    border-style: solid;
+    color: white;
+}
+.title {
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
